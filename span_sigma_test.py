@@ -1,3 +1,7 @@
+"""
+Add this code block to your driver to generate plots of QOP vs BSM prices when span_sigma = 2 and span_sigma = 3
+"""
+
 # volatility sweep with default span_sigma = 3
     sweep_volatility_vs_price(
         ticker= my_ticker,
