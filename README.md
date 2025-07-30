@@ -20,3 +20,11 @@ We observe both agreement and divergence with BSM pricing, and highlight changes
 - ✅ Amplitude estimation for expected value computation  
 - ✅ BSM comparison and volatility/strike sweeps  
 - ✅ Real market data support via `yfinance`
+
+  ---
+
+- ## 👥 Contributors
+
+- **Aaditeya Tripathi** — California State University, East Bay
+- **Anany Pravin** — University of Illinois, Urbana-Champaign
+
