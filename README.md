@@ -26,5 +26,5 @@ We observe both agreement and divergence with BSM pricing, and highlight changes
 ## 👥 Contributors
 
 - **Aaditeya Tripathi** — California State University, East Bay
-- **Anany Pravin [@AnanyPravin] (https://github.com/AnanyPravin)**— University of Illinois, Urbana-Champaign
+- **Anany Pravin** [@AnanyPravin] (https://github.com/AnanyPravin) — University of Illinois, Urbana-Champaign
 
